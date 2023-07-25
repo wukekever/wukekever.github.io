@@ -5,3 +5,9 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Presentations"
+    url: "/#-presentations"
+
+  - title: "Life"
+    url: "/#-life"
