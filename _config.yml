@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Keke Wu"
-description: "Website of Keke Wu"
+description: "Computational mathematics"
 repository: "wukekever.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Keke Wu"
   avatar: "images/android-chrome-512x512.png"
-  bio: "PhD Student at Shanghai Jiao Tong University"
+  bio: "PhD, Shanghai Jiao Tong University"
   location: "Shanghai, China"
   employer:
   pubmed:
