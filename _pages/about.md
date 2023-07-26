@@ -22,7 +22,7 @@ My research interest includes scientific computation and deep learning.
 # 📝 Publications 
 
 ## 📄 Submitted
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-micro-macro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commun Comput Phys</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations](http://export.arxiv.org/pdf/2306.15381)
@@ -39,7 +39,7 @@ equations](http://export.arxiv.org/pdf/2306.15381). arXiv preprint arXiv:2306.15
 
 
 ## 🏷️ Accepted
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-micro-macro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymptotic-Preserving Neural Networks for Multiscale Time-Dependent Linear Transport Equations](https://arxiv.org/pdf/2111.02541.pdf)
