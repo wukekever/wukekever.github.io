@@ -35,7 +35,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 
 - Shi Jin, Zheng Ma, and Keke Wu. [Asymptotic-preserving neural networks for multiscale kinetic
-equations](http://export.arxiv.org/pdf/2306.15381). arXiv preprint arXiv:2306.15381, 2023.
+equations](http://arxiv.org/pdf/2306.15381.pdf). arXiv preprint arXiv:2306.15381, 2023.
 
 
 ## 🏷️ Accepted
