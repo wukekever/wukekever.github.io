@@ -25,7 +25,7 @@ My research interest includes scientific computation and deep learning.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commun Comput Phys</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations](http://export.arxiv.org/pdf/2306.15381)
+[Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations](http://arxiv.org/pdf/2306.15381.pdf)
 
 Shi Jin, Zheng Ma, **Keke Wu**
 
@@ -34,8 +34,8 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-- Shi Jin, Zheng Ma, and Keke Wu. Shi Jin, Zheng Ma, and Keke Wu. [Asymptotic-preserving neural networks for multiscale kinetic
-equations](http://export.arxiv.org/pdf/2306.15381). arXiv preprint arXiv:2306.15381.
+- Shi Jin, Zheng Ma, and Keke Wu. [Asymptotic-preserving neural networks for multiscale kinetic
+equations](http://export.arxiv.org/pdf/2306.15381). arXiv preprint arXiv:2306.15381, 2023.
 
 
 ## 🏷️ Accepted
