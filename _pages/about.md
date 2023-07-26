@@ -52,7 +52,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 
 - Shi Jin, Zheng Ma, and Keke Wu. [Asymptotic-preserving neural networks for multiscale
-time-dependent linear transport equations](https://github.com/wukekever/apnn-lte). Journal of Scientific Computing, 94(3):57, 2023.
+time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023.
 
 ## 💬 Presentations
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
