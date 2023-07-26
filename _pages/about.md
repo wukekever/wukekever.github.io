@@ -22,6 +22,23 @@ My research interest includes scientific computation and deep learning.
 # 📝 Publications 
 
 ## 📄 Submitted
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Comput Phys</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Asymptotic-Preserving Convolutional DeepONets Capture the Diffusive Behavior of the Multiscale Linear Transport Equations](http://arxiv.org/pdf/2306.15891.pdf)
+
+**Keke Wu**, Xiong-bin Yan, Shi Jin, Zheng Ma 
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qVvgz3IAAAAJ&citation_for_view=qVvgz3IAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='qVvgz3IAAAAJ:W7OEmFMy1HYC'></span></strong>
+- In this paper, we introduce two types of novel Asymptotic-Preserving Convolutional Deep Operator Networks (APCONs) designed to address the multiscale time-dependent linear transport problem. We observe that the vanilla physics-informed DeepONets with modified MLP may exhibit instability in maintaining the desired limiting macroscopic behavior. Therefore, this necessitates the utilization of an asymptotic-preserving loss function. Drawing inspiration from the heat kernel in the diffusion equation, we propose a new architecture called Convolutional Deep Operator Networks, which employ multiple local convolution operations instead of a global heat kernel, along with pooling and activation operations in each filter layer. Our APCON methods possess a parameter count that is independent of the grid size and are capable of capturing the diffusive behavior of the linear transport problem. Finally, we validate the effectiveness of our methods through several numerical examples.
+</div>
+</div>
+
+- Keke Wu, Xiong-bin Yan, Shi Jin, and Zheng Ma. [Asymptotic-preserving convolutional deep-
+onets capture the diffusive behavior of the multiscale linear transport equations](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint
+arXiv:2306.15891, 2023.
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commun Comput Phys</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
