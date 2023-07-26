@@ -17,13 +17,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class = "box">
-    <div>Hey check this out</div>
-    <div>
-        <model-viewer camera-controls alt="Model" src="assets/3d/dog.glb">
-        </model-viewer>
-    </div>
-</div>
+
+<!-- <!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <meta http-equiv = "x-ua-compatible" content = "IE=edge">
+        <meta name = "viewport" content= "width=device-width, initial-scale=1.0">
+        <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+        
+        <title>portfolio</title>
+
+        <style>
+            .box {display:flex;}
+            mode-viewer {width: 800px; height: 500px; margin:0, auto}
+        </style>
+    </head>
+
+    <body>
+        <div class = "box">
+            <div>Hey check this out</div>
+            <div>
+                <model-viewer camera-controls alt="Model" src="assets/3d/dog.glb">
+                </model-viewer>
+            </div>
+        </div>
+    </body> 
+
+</html> -->
+
+   portfolio .box {display:flex;} mode-viewer {width: 800px; height: 500px; margin:0, auto}
+
+Hey check this out
+
 
 Hello, I'm a PhD student at Shanghai Jiao Tong University. My research interest includes scientific computation and deep learning. I'm currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
 
