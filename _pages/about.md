@@ -85,10 +85,6 @@ arXiv:2306.15891, 2023. -->
 </div>
 </div>
 
-- Keke Wu, Xiong-bin Yan, Shi Jin, and Zheng Ma. [Asymptotic-preserving convolutional deep-
-onets capture the diffusive behavior of the multiscale linear transport equations](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint
-arXiv:2306.15891, 2023.
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commun Comput Phys</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -102,9 +98,14 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-- Shi Jin, Zheng Ma, and Keke Wu. [Asymptotic-preserving neural networks for multiscale kinetic
+- [5] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
+- [4] **Keke Wu**, Xiong-bin Yan, Shi Jin, and Zheng Ma. [Asymptotic-preserving convolutional deep-
+onets capture the diffusive behavior of the multiscale linear transport equations](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint
+arXiv:2306.15891, 2023.
+- [3] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale kinetic
 equations](http://arxiv.org/pdf/2306.15381.pdf). arXiv preprint arXiv:2306.15381, 2023.
-
+- [2] **Keke Wu**, Xiangru Jian, Rui Du, Jingrun Chen, and Xiang Zhou. Roughness Index for Loss Landscapes of Neural Network Models of Partial Differential Equations.
+- [1] **Keke Wu**, Rui Du, Jingrun Chen, and Xiang Zhou. [Understanding Loss Landscapes of Neural Network Models in Solving Partial Differential Equations](https://arxiv.org/abs/2103.11069). arXiv preprint arXiv:2103.11069, 2021.
 
 ## 🏷️ Accepted
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-micro-macro.png' alt="sym" width="100%"></div></div>
@@ -119,11 +120,13 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-- Shi Jin, Zheng Ma, and Keke Wu. [Asymptotic-preserving neural networks for multiscale
-time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023.
+- [3] Shi Jin, Zheng Ma, and Keke Wu. [Asymptotic-preserving neural networks for multiscale time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023.
+- [2] Liyao Lyu, Keke Wu, Rui Du, and Jingrun Chen. [Enforcing Exact Boundary and Initial Conditions in the Deep Mixed Residual Method](https://www.global-sci.org/intro/article_detail/csiam-am/19991.html). CSIAM Transactions on Applied Mathematics, 2(4)(2021) 748-775.
+- [1] Jingrun Chen, Rui Du, and Keke Wu.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376.
+- 
 
 # 💬 Presentations
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAM-Tokyo</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
