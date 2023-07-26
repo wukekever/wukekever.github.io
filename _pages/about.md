@@ -46,10 +46,6 @@ redirect_from:
 
 </html> -->
 
-   <!-- portfolio .box {display:flex;} mode-viewer {width: 800px; height: 500px; margin:0, auto}
-
-Check this test -->
-
 
 Hello, I'm a PhD student at Shanghai Jiao Tong University. My research interest includes scientific computation and deep learning. I'm currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
 
