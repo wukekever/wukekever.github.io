@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<img class="image" src="assets/3d/code.png" alt="assets/3d/dog.glb" />
-</div>
-</div>
+<img class="image" src="assets/3d/dog.glb"/>
 
 Hello, I'm a PhD student at Shanghai Jiao Tong University. My research interest includes scientific computation and deep learning. I'm currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
 
