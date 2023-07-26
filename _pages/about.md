@@ -22,10 +22,10 @@ My research interest includes scientific computation and deep learning.
 # 📝 Publications 
 
 ## 📄 Submitted
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-micro-macro.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-micro-macro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Asymptotic-Preserving Neural Networks for Multiscale Time-Dependent Linear Transport Equations](https://arxiv.org/pdf/2111.02541.pdf)
+[Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations](http://export.arxiv.org/pdf/2306.15381)
 
 Shi Jin, Zheng Ma, **Keke Wu**
 
@@ -39,7 +39,7 @@ time-dependent linear transport equations](https://github.com/wukekever/apnn-lte
 
 
 ## 🏷️ Accepted
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-micro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-micro-macro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymptotic-Preserving Neural Networks for Multiscale Time-Dependent Linear Transport Equations](https://arxiv.org/pdf/2111.02541.pdf)
