@@ -73,7 +73,7 @@ onets capture the diffusive behavior of the multiscale linear transport equation
 arXiv:2306.15891, 2023. -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Comput Phys</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multiscale Model Simul</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymptotic-Preserving Convolutional DeepONets Capture the Diffusive Behavior of the Multiscale Linear Transport Equations](http://arxiv.org/pdf/2306.15891.pdf)
@@ -141,6 +141,18 @@ Shi Jin, Zheng Ma, **Keke Wu**
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📌 Life
+
+## Suzhou TOUR of RONGHAO LI 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04.09</div><img src='images/lironghao1_suzhou.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.01.02</div><img src='images/lironghao2_suzhou.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+</div>
+</div>
+
 ## Shanghai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04.09</div><img src='images/shanghai0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
