@@ -142,7 +142,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 
 # 📌 Life
 
-## Suzhou TOUR of RONGHAO LI 
+## Tour of Ronghao Li 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04.09</div><img src='images/lironghao1_suzhou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
