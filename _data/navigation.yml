@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Selected projects"
+    url: "/#-selected-projects"
+
   - title: "Presentations"
     url: "/#-presentations"
 
