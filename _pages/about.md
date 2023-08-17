@@ -114,17 +114,17 @@ Shi Jin, Zheng Ma, **Keke Wu**
 
 
 # 💬 Presentations
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAM-Tokyo</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAM-2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymptotic-Preserving Neural Networks for Multiscale Time-Dependent Linear Transport Equations](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/iciam2023.pdf)
 
 **Keke Wu**
 
-[**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qVvgz3IAAAAJ&citation_for_view=qVvgz3IAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='qVvgz3IAAAAJ:d1gkVwhDpl0C'></span></strong>
-- Title: Analysis and Numerics on Deep Learning Based Methods for Solving PDEs
-- Abstract : Various difficult PDE problems from the science and engineering now tend to be solved by numerical methods based on deep learning. This minisymposium focuses on both analytic and numerical aspects of these new methods. The speakers will talk about their recent works on the mechanism and further improvement of variational or/and physics-informed DNN-based solvers with applications to scientific computing problems.
-- Organizer(s) : Tao Luo, Zheng Ma, Zhiping Mao
+[**Content**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qVvgz3IAAAAJ&citation_for_view=qVvgz3IAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='qVvgz3IAAAAJ:d1gkVwhDpl0C'></span></strong>
+- Topic: Analysis and Numerics on Deep Learning Based Methods for Solving PDEs
+- Abstract: Various difficult PDE problems from the science and engineering now tend to be solved by numerical methods based on deep learning. This minisymposium focuses on both analytic and numerical aspects of these new methods. The speakers will talk about their recent works on the mechanism and further improvement of variational or/and physics-informed DNN-based solvers with applications to scientific computing problems.
+- Organizers: Tao Luo, Zheng Ma, Zhiping Mao
 </div>
 </div>
 
