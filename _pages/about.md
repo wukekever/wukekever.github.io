@@ -47,19 +47,17 @@ redirect_from:
 </html> -->
 
 
-Hello, now I'm a PhD student at Shanghai Jiao Tong University, advised by Zheng Ma. 
+Hello, now I am a PhD student at Shanghai Jiao Tong University, advised by Zheng Ma. 
 I received my master's degree from Soochow University, advised by Jingrun Chen and Rui Du. 
 My research interest includes scientific computation and deep learning. 
 The current deep learning frameworks I used are JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
-I'm currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
+I am currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
 
 In the field of AI for Science (AI4S), my collaborators and I found that a vanilla Physics-Informed Neural Network (PINN) is inadequate in capturing the intricate multiscale nature of the problem at hand. As a remedy, we put forth two groundbreaking Asymptotic-Preserving Neural Networks (APNNs) designed to effectively address the complexities of the multiscale time-dependent linear transport equations, replete with diffusive scaling and uncertainties.
 Furthermore, our efforts extended to the development of APNNs, which proficiently tackle multiscale nonlinear kinetic problems, encompassing the gray radiative transfer equations (GRTEs) and Bhatnagar-Gross-Krook (BGK) equations. In addition, we delved into the realm of operator learning, where we introduced two Asymptotic-Preserving Convolutional Deep Operator Networks (APCONs) with the capability to adeptly capture the diffusive behavior inherent in the multiscale linear transport equations.
 
 
 # 📝 Publications 
-## Recent Publications List:
-
 ### 2023
 - [8] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
 - [7] **Keke Wu**, Xiong-bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint arXiv:2306.15891, 2023.
