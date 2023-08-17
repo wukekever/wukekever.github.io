@@ -54,29 +54,25 @@ Furthermore, our efforts extended to the development of APNNs, which proficientl
 
 
 # 📝 Publications 
+## 2023
+- [8] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
+- [7] **Keke Wu**, Xiong-bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint arXiv:2306.15891, 2023.
+- [6] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale kinetic equations](http://arxiv.org/pdf/2306.15381.pdf). arXiv preprint arXiv:2306.15381, 2023. (Corresponding author)
+- [5] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023. (Corresponding author)
+- [4] **Keke Wu**, Xiangru Jian, Rui Du, Jingrun Chen, and Xiang Zhou. Roughness Index for Loss Landscapes of Neural Network Models of Partial Differential Equations.   
+## 2021
+- [3] **Keke Wu**, Rui Du, Jingrun Chen, and Xiang Zhou. [Understanding Loss Landscapes of Neural Network Models in Solving Partial Differential Equations](https://arxiv.org/abs/2103.11069). arXiv preprint arXiv:2103.11069, 2021.
+- [2] Liyao Lyu, **Keke Wu**, Rui Du, and Jingrun Chen. [Enforcing Exact Boundary and Initial Conditions in the Deep Mixed Residual Method](https://www.global-sci.org/intro/article_detail/csiam-am/19991.html). CSIAM Transactions on Applied Mathematics, 2(4)(2021) 748-775. (Equal contribution)
+## 2020
+- [1] Jingrun Chen, Rui Du, and Keke Wu.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author.)
+  
+## 📄 Selected
 
-## 📄 Submitted
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Comput Phys</div><img src='images/apnns-grte.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations](http://arxiv.org/pdf/2306.15891.pdf)
-
-**Keke Wu**, Xiong-bin Yan, Shi Jin, Zheng Ma 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qVvgz3IAAAAJ&citation_for_view=qVvgz3IAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='qVvgz3IAAAAJ:W7OEmFMy1HYC'></span></strong>
-- We present a novel Asymptotic-Preserving Neural Network (APNN) approach utilizing even-odd decomposition to tackle the nonlinear gray radiative transfer equations (GRTEs). The novel AP loss demonstrates consistent stability concerning the small Knudsen number, ensuring the neural network solution uniformly converges to the macro solution. This APNN method alleviates the rigorous conservation requirements while simultaneously incorporating an auxiliary deep neural network, distinguishing it from the APNN method based on micro-macro decomposition for GRTE. Several numerical problems are examined to demonstrate the effectiveness of our proposed APNN technique.
-</div>
-</div>
-
-- Keke Wu, xxx, ..., Zheng Ma. [Asymptotic-preserving convolutional deep-
-onets capture the diffusive behavior of the multiscale linear transport equations](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint
-arXiv:2306.15891, 2023. -->
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multiscale Model Simul</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Asymptotic-Preserving Convolutional DeepONets Capture the Diffusive Behavior of the Multiscale Linear Transport Equations](http://arxiv.org/pdf/2306.15891.pdf)
+[Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf)
 
 **Keke Wu**, Xiong-bin Yan, Shi Jin, Zheng Ma 
 
@@ -86,7 +82,7 @@ arXiv:2306.15891, 2023. -->
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commun Comput Phys</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations](http://arxiv.org/pdf/2306.15381.pdf)
@@ -98,16 +94,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-- [5] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
-- [4] **Keke Wu**, Xiong-bin Yan, Shi Jin, and Zheng Ma. [Asymptotic-preserving convolutional deep-
-onets capture the diffusive behavior of the multiscale linear transport equations](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint
-arXiv:2306.15891, 2023.
-- [3] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale kinetic
-equations](http://arxiv.org/pdf/2306.15381.pdf). arXiv preprint arXiv:2306.15381, 2023.
-- [2] **Keke Wu**, Xiangru Jian, Rui Du, Jingrun Chen, and Xiang Zhou. Roughness Index for Loss Landscapes of Neural Network Models of Partial Differential Equations.
-- [1] **Keke Wu**, Rui Du, Jingrun Chen, and Xiang Zhou. [Understanding Loss Landscapes of Neural Network Models in Solving Partial Differential Equations](https://arxiv.org/abs/2103.11069). arXiv preprint arXiv:2103.11069, 2021.
 
-## 🏷️ Accepted
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J SCI COMPUT</div><img src='images/apnns-micro-macro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,10 +107,6 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-- [3] Shi Jin, Zheng Ma, and Keke Wu. [Asymptotic-preserving neural networks for multiscale time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023.
-- [2] Liyao Lyu, Keke Wu, Rui Du, and Jingrun Chen. [Enforcing Exact Boundary and Initial Conditions in the Deep Mixed Residual Method](https://www.global-sci.org/intro/article_detail/csiam-am/19991.html). CSIAM Transactions on Applied Mathematics, 2(4)(2021) 748-775.
-- [1] Jingrun Chen, Rui Du, and Keke Wu.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376.
-- 
 
 # 💬 Presentations
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAM-Tokyo</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -148,10 +131,10 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07.29</div><img src='images/lironghao2_suzhou.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07.29</div><img src='images/lironghao2_suzhou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
-</div>
+</div> -->
 
 ## Shanghai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04.09</div><img src='images/shanghai0.png' alt="sym" width="100%"></div></div>
@@ -159,16 +142,16 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.01.02</div><img src='images/shanghai1.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.01.02</div><img src='images/shanghai1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
-</div>
+</div> -->
 
 ## Xiamen
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.02</div><img src='images/xiamen1.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.02</div><img src='images/xiamen1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.01</div><img src='images/xiamen0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -181,9 +164,9 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020.08.21</div><img src='images/suzhou1.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020.08.21</div><img src='images/suzhou1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
-</div>
+</div> -->
 
 
