@@ -47,9 +47,13 @@ redirect_from:
 </html> -->
 
 
-Hello, I'm a PhD student at Shanghai Jiao Tong University. My research interest includes scientific computation and deep learning. I'm currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
+Hello, now I'm a PhD student at Shanghai Jiao Tong University, advised by Zheng Ma. 
+I received my master's degree from Soochow University, advised by Jingrun Chen and Rui Du. 
+My research interest includes scientific computation and deep learning. 
+The current deep learning frameworks I used are JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
+I'm currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
 
-In the field of AI for Science (AI4S), my collaborators and I have made a noteworthy discovery. We found that a vanilla Physics-Informed Neural Network (PINN) is inadequate in capturing the intricate multiscale nature of the problem at hand. As a remedy, we put forth two groundbreaking Asymptotic-Preserving Neural Networks (APNNs) designed to effectively address the complexities of the multiscale time-dependent linear transport equations, replete with diffusive scaling and uncertainties.
+In the field of AI for Science (AI4S), my collaborators and I found that a vanilla Physics-Informed Neural Network (PINN) is inadequate in capturing the intricate multiscale nature of the problem at hand. As a remedy, we put forth two groundbreaking Asymptotic-Preserving Neural Networks (APNNs) designed to effectively address the complexities of the multiscale time-dependent linear transport equations, replete with diffusive scaling and uncertainties.
 Furthermore, our efforts extended to the development of APNNs, which proficiently tackle multiscale nonlinear kinetic problems, encompassing the gray radiative transfer equations (GRTEs) and Bhatnagar-Gross-Krook (BGK) equations. In addition, we delved into the realm of operator learning, where we introduced two Asymptotic-Preserving Convolutional Deep Operator Networks (APCONs) with the capability to adeptly capture the diffusive behavior inherent in the multiscale linear transport equations.
 
 
@@ -67,7 +71,7 @@ Furthermore, our efforts extended to the development of APNNs, which proficientl
 ## 2020
 - [1] Jingrun Chen, Rui Du, and Keke Wu.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author)
   
-## 📄 Selected
+## 📄 Selected projects
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
@@ -113,16 +117,18 @@ Shi Jin, Zheng Ma, **Keke Wu**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAM-Tokyo</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Asymptotic-Preserving Neural Networks for Multiscale Time-Dependent Linear Transport Equations](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/iciam2023.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Keke Wu**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qVvgz3IAAAAJ&citation_for_view=qVvgz3IAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='qVvgz3IAAAAJ:d1gkVwhDpl0C'></span></strong>
+- Title: Analysis and Numerics on Deep Learning Based Methods for Solving PDEs
+- Abstract : Various difficult PDE problems from the science and engineering now tend to be solved by numerical methods based on deep learning. This minisymposium focuses on both analytic and numerical aspects of these new methods. The speakers will talk about their recent works on the mechanism and further improvement of variational or/and physics-informed DNN-based solvers with applications to scientific computing problems.
+- Organizer(s) : Tao Luo, Zheng Ma, Zhiping Mao
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Analysis and Numerics on Deep Learning Based Methods for Solving PDEs](https://iciam2023.org/registered_data?id=00747), **ICIAM Minisymposium**, 2023, Tokyo, Japan.
 
 # 📌 Life
 
