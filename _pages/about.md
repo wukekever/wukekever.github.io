@@ -54,6 +54,7 @@ Furthermore, our efforts extended to the development of APNNs, which proficientl
 
 
 # 📝 Publications 
+
 ## 2023
 - [8] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
 - [7] **Keke Wu**, Xiong-bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint arXiv:2306.15891, 2023.
@@ -64,7 +65,7 @@ Furthermore, our efforts extended to the development of APNNs, which proficientl
 - [3] **Keke Wu**, Rui Du, Jingrun Chen, and Xiang Zhou. [Understanding Loss Landscapes of Neural Network Models in Solving Partial Differential Equations](https://arxiv.org/abs/2103.11069). arXiv preprint arXiv:2103.11069, 2021.
 - [2] Liyao Lyu, **Keke Wu**, Rui Du, and Jingrun Chen. [Enforcing Exact Boundary and Initial Conditions in the Deep Mixed Residual Method](https://www.global-sci.org/intro/article_detail/csiam-am/19991.html). CSIAM Transactions on Applied Mathematics, 2(4)(2021) 748-775. (Equal contribution)
 ## 2020
-- [1] Jingrun Chen, Rui Du, and Keke Wu.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author.)
+- [1] Jingrun Chen, Rui Du, and Keke Wu.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author)
   
 ## 📄 Selected
 
