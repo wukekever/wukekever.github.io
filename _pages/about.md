@@ -47,7 +47,7 @@ redirect_from:
 </html> -->
 
 
-Hello, now I am a PhD student at Shanghai Jiao Tong University, advised by Zheng Ma. 
+Hello, I am a PhD student at Shanghai Jiao Tong University, advised by Zheng Ma. 
 I received my master's degree from Soochow University, advised by Jingrun Chen and Rui Du. 
 My research interest includes scientific computation and deep learning. 
 The current deep learning frameworks I used are JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
@@ -58,16 +58,22 @@ Furthermore, our efforts extended to the development of APNNs, which proficientl
 
 
 # 📝 Publications 
+
 ### 2023
+
 - [8] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
 - [7] **Keke Wu**, Xiong-bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint arXiv:2306.15891, 2023.
 - [6] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale kinetic equations](http://arxiv.org/pdf/2306.15381.pdf). arXiv preprint arXiv:2306.15381, 2023. (Corresponding author)
 - [5] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023. (Corresponding author)
 - [4] **Keke Wu**, Xiangru Jian, Rui Du, Jingrun Chen, and Xiang Zhou. Roughness Index for Loss Landscapes of Neural Network Models of Partial Differential Equations.   
+
 ### 2021
+
 - [3] **Keke Wu**, Rui Du, Jingrun Chen, and Xiang Zhou. [Understanding Loss Landscapes of Neural Network Models in Solving Partial Differential Equations](https://arxiv.org/abs/2103.11069). arXiv preprint arXiv:2103.11069, 2021.
 - [2] Liyao Lyu, **Keke Wu**, Rui Du, and Jingrun Chen. [Enforcing Exact Boundary and Initial Conditions in the Deep Mixed Residual Method](https://www.global-sci.org/intro/article_detail/csiam-am/19991.html). CSIAM Transactions on Applied Mathematics, 2(4)(2021) 748-775. (Equal contribution)
+
 ### 2020
+
 - [1] Jingrun Chen, Rui Du, and Keke Wu.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author)
   
 ## 📄 Selected projects
