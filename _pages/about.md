@@ -50,7 +50,7 @@ redirect_from:
 Hello, I am a PhD student at Shanghai Jiao Tong University, advised by Zheng Ma. 
 I received my master's degree from Soochow University, advised by Jingrun Chen and Rui Du. 
 My research interest includes scientific computation and deep learning. 
-The current deep learning frameworks I used are JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
+The deep learning frameworks now I used are JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
 I am currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
 
 In the field of AI for Science (AI4S), my collaborators and I found that a vanilla Physics-Informed Neural Network (PINN) is inadequate in capturing the intricate multiscale nature of the problem at hand. As a remedy, we put forth two groundbreaking Asymptotic-Preserving Neural Networks (APNNs) designed to effectively address the complexities of the multiscale time-dependent linear transport equations, replete with diffusive scaling and uncertainties.
@@ -74,7 +74,7 @@ Furthermore, our efforts extended to the development of APNNs, which proficientl
 
 ### 2020
 
-- [1] Jingrun Chen, Rui Du, and Keke Wu.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author)
+- [1] Jingrun Chen, Rui Du, and  **Keke Wu**.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author)
   
 # 📄 Selected projects
 
@@ -119,7 +119,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 
 
 # 💬 Presentations
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAM2023-Tokyo</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAM2023-Tokyo</div><img src='images/iciam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Talk for ICIAM Minisymposium**](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/iciam2023.pdf)
