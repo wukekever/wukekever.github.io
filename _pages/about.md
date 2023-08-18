@@ -119,7 +119,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 
 
 # 💬 Presentations
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIAM2023-Tokyo</div><img src='images/iciam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Minisymposium</div><img src='images/iciam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Talk for ICIAM Minisymposium**](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/iciam2023.pdf)
