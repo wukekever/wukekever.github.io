@@ -119,7 +119,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 
 
 # 💬 Presentations
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Minisymposium</div><img src='images/iciam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Minisymposium</div><img src='images/waseda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Talk for ICIAM Minisymposium**](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/iciam2023.pdf)
@@ -138,7 +138,13 @@ Shi Jin, Zheng Ma, **Keke Wu**
 
 # 📌 Life
 
-## Tour of Ronghao Li 
+## Skytree - Tokyo
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.08.21</div><img src='images/tokyo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+</div>
+</div>
+
+## Tour of Ronghao Li - Suzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07.29</div><img src='images/lironghao1_suzhou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
@@ -149,7 +155,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div> -->
 
-## Shanghai
+## The Bund - Shanghai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04.09</div><img src='images/shanghai0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
@@ -160,7 +166,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div> -->
 
-## Xiamen
+##  Zengcuo'An - Xiamen
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.02</div><img src='images/xiamen1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
@@ -171,7 +177,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-## Suzhou
+## The Gate of the Orient - Suzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.07.29</div><img src='images/suzhou0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
