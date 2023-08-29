@@ -3,14 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Curriculum Vitae"
-    url: "/#-curriculum-vitae"
+  # - title: "Curriculum Vitae"
+  #   url: "/#-curriculum-vitae"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "Selected Projects"
+    url: "/#-selected-projects"
 
   - title: "Presentations"
     url: "/#-presentations"
