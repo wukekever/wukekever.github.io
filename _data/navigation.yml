@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Curriculum Vitae"
-    url: "/#-curriculum-vitae"
-
   - title: "Publications"
     url: "/#-publications"
 
@@ -14,6 +11,9 @@ main:
 
   - title: "Presentations"
     url: "/#-presentations"
+
+  - title: "Curriculum Vitae"
+    url: "/#-curriculum-vitae"
 
   - title: "Life"
     url: "/#-life"
