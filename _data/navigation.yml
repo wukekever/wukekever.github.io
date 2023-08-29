@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "Curriculum Vitae"
-    url: "/#curriculum-vitae"
+    url: "/#-curriculum-vitae"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Selected Projects"
-    url: "/#selected-projects"
+    url: "/#-selected-projects"
 
   - title: "Presentations"
     url: "/#-presentations"
