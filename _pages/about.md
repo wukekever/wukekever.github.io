@@ -81,7 +81,7 @@ My CV can be found here: [Chinese](https://github.com/wukekever/wukekever.github
 
 - [1] Jingrun Chen, Rui Du, and  **Keke Wu**.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author)
   
-# 📦️ Selected projects
+# 📦️ Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
