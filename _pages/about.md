@@ -57,7 +57,7 @@ In the field of AI for Science (AI4S), my collaborators and I found that a vanil
 Furthermore, our efforts extended to the development of APNNs, which proficiently tackle multiscale nonlinear kinetic problems, encompassing the gray radiative transfer equations (GRTEs) and Bhatnagar-Gross-Krook (BGK) equations. In addition, we delved into the realm of operator learning, where we introduced two Asymptotic-Preserving Convolutional Deep Operator Networks (APCONs) with the capability to adeptly capture the diffusive behavior inherent in the multiscale linear transport equations.
 
 
-# 📄 Curriculum Vitae
+# 🚀 Curriculum Vitae
 
 
 My CV can be found here: [Chinese](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/Resume_cn.pdf) and [English](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/Resume_en.pdf)
