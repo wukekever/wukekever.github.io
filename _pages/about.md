@@ -83,7 +83,7 @@ My CV can be found here: [Chinese](https://github.com/wukekever/wukekever.github
 
 
 
-# 📦️ Projects
+<!-- # 📦️ Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,7 +120,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=qVvgz3IAAAAJ&citation_for_view=qVvgz3IAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='qVvgz3IAAAAJ:d1gkVwhDpl0C'></span></strong>
 - In this paper we develop a neural network for the numerical simulation of time-dependent linear transport equations with diffusive scaling and uncertainties. The goal of the network is to resolve the computational challenges of curse-of-dimensionality and multiple scales of the problem. We first show that a standard Physics-Informed Neural Network (PINN) fails to capture the multiscale nature of the problem, hence justifies the need to use Asymptotic-Preserving Neural Networks (APNNs). We show that not all classical AP formulations are directly fit for the neural network approach. We construct a micro-macro decomposition based neural network, and also build in a mass conservation mechanism into the loss function, in order to capture the dynamic and multiscale nature of the solutions. 
 </div>
-</div>
+</div> -->
 
 
 # 💬 Presentations
