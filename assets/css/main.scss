@@ -41,62 +41,39 @@
 @import "print";
 
 
-#max {
-    width: 900px;
-    height: 500px;
-    align-items: center;
-    margin: 5% auto;
-    margin-top: 0%;
-}
-
-.re {
-    position: relative;
-    height: 400px;
-}
-
-.re ul {
-    list-style-type: none;
-}
-
-.re ul>li {
-    width: 600px;
+#container {
+    width: 400px;
     height: 300px;
-    position: absolute;
-
-    transition: 1s;
-    opacity: 0;
+    overflow: hidden;
 }
 
-.re ul>li img {
-    width: 900px;
-    height: 500px;
-    border-radius: 10%;
-    border: 15px solid #fffbd6;
+#photo {
+    width: 1200px;
+    animation: switch 5s ease-out infinite;
 }
 
-#max ol {
-    position: relative;
-    display: grid;
-    grid-template-columns: repeat(5, 75px);
-    grid-template-rows: auto;
-    grid-gap: 1em;
-    gap: 1em;
-    float: right;
-    margin-top: 450px;
-    list-style: none;
-    top: 0;
-    left: 0;
-}
-
-#max ol li {
-    width: 25px;
-    height: 10px;
-    font-size: 15px;
-    line-height: 20px;
+#photo > img {
     float: left;
-    text-align: center;
-    border-radius: 2em;
-    border: 5px solid #999999;
+    width: 400px;
+    height: 300px;
+}
+
+@keyframes switch {
+
+    0%,
+    25% {
+        margin-left: 0;
+    }
+
+    35%,
+    60% {
+        margin-left: -400px;
+    }
+
+    70%,
+    100% {
+        margin-left: -800px;
+    }
 }
 
 
