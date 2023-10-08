@@ -147,10 +147,8 @@ Shi Jin, Zheng Ma, **Keke Wu**
 
 # 📌 Life
 
-![这里写图片描述](images/shanghai0.png)
-![这里写图片描述](images/shanghai0.png)
-![这里写图片描述](images/shanghai0.png)
 
-
-
+<![Skytree - Tokyo](images/tokyo.png),
+![Tour of Ronghao Li - Suzhou](images/lironghao1_suzhou.png),
+![The Bund - Shanghai](images/shanghai0.png)>
 
