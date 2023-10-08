@@ -151,10 +151,10 @@ Shi Jin, Zheng Ma, **Keke Wu**
 <!-- <div align="center"><img src="images/tokyo.png"/></div> -->
 
 
-
-<div id="container">
- <div id="photo">
- <img src="images/tokyo.png" />
- <img src="images/lironghao1_suzhou.png" />
- </div>
+<div class="banner-container">
+<div class="banner-img-container">
+	<img src="images/tokyo.png" alt="">
+	<img src="images/lironghao1_suzhou.png" alt="">
 </div>
+</div>
+
