@@ -148,7 +148,5 @@ Shi Jin, Zheng Ma, **Keke Wu**
 # 📌 Life
 
 
-<![Skytree - Tokyo](images/tokyo.png),
-![Tour of Ronghao Li - Suzhou](images/lironghao1_suzhou.png),
-![The Bund - Shanghai](images/shanghai0.png)>
+<![Skytree - Tokyo](images/tokyo.png),![Tour of Ronghao Li - Suzhou](images/lironghao1_suzhou.png),![The Bund - Shanghai](images/shanghai0.png)>
 
