@@ -146,16 +146,10 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 
 # 📌 Life
-## Skytree - Tokyo
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.08.21</div><img src='images/tokyo.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-</div>
-</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.08.21</div><img src='images/tokyo.png' alt="sym" width="100%"></div></div>
 ## Tour of Ronghao Li - Suzhou
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07.29</div><img src='images/lironghao1_suzhou.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07.29</div><img src='images/lironghao1_suzhou.png' alt="sym" width="100%"></div></div>
 </div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07.29</div><img src='images/lironghao2_suzhou.png' alt="sym" width="100%"></div></div>
