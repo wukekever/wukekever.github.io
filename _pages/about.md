@@ -150,3 +150,5 @@ Shi Jin, Zheng Ma, **Keke Wu**
 
 <![Skytree - Tokyo](images/tokyo.png),![Tour of Ronghao Li - Suzhou](images/lironghao1_suzhou.png),![The Bund - Shanghai](images/shanghai0.png)>
 
+
+<div align="center"><img width="65" height="75" src="images/tokyo.png"/></div>
