@@ -40,6 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* 自动轮播样式 */
 .banner-container {
     width: 1200px;
     height: 400px;
@@ -63,6 +64,22 @@
 .banner-container .banner-img-container img {
     width: 1200px;
     height: 100%;
+}
+
+/* 动画关键帧 */
+@keyframes run {
+
+    0%,
+    10% {
+        /* margin-left: 0; */
+        transform: translateX(0);
+    }
+
+    20%,
+    30% {
+        /* margin-left: -1200px;; */
+        transform: translateX(-1200px);
+    }
 }
 
 .paper-box {
