@@ -149,7 +149,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 ## Skytree - Tokyo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.08.21</div><img src='images/tokyo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-The Tokyo Skytree is an iconic landmark and communication tower located in Sumida, Tokyo. It stands as one of the tallest freestanding towers in the world, soaring to an impressive height of 634 meters. This architectural marvel was completed in 2012 and has since become a symbol of Tokyo's modern skyline and technological advancement. The tower serves multiple purposes, primarily functioning as a broadcasting tower for television and radio signals. However, it is also a major tourist attraction, offering visitors breathtaking panoramic views of Tokyo and its surroundings from its observation decks. The two main observation decks, known as the Tembo Deck and the Tembo Galleria, are located at heights of 350 meters and 450 meters respectively, providing visitors with stunning vistas of the city, including famous landmarks like Tokyo Tower and Mount Fuji on clear days.
+The Tokyo Skytree is an iconic landmark and communication tower located in Sumida, Tokyo. It stands as one of the tallest freestanding towers in the world, soaring to an impressive height of 634 meters. This architectural marvel was completed in 2012 and has since become a symbol of Tokyo's modern skyline and technological advancement. The two main observation decks, known as the Tembo Deck and the Tembo Galleria, are located at heights of 350 meters and 450 meters respectively, providing visitors with stunning vistas of the city, including famous landmarks like Tokyo Tower and Mount Fuji on clear days.
 
 </div>
 </div>
@@ -188,14 +188,14 @@ Shanghai Bund is one of Shanghai's most iconic landmarks and a symbol of the cit
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.01</div><img src='images/xiamen0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Zengcuo'an is a charming coastal village located in Xiamen, Fujian Province, China. This picturesque destination has gained popularity for its unique blend of traditional Chinese architecture and a vibrant, bohemian atmosphere. It is renowned for its distinctive whitewashed buildings adorned with colorful doors and windows, creating a delightful contrast against the backdrop of the azure sea. The narrow winding streets are lined with quaint cafes, boutique shops, and local seafood restaurants, making it a haven for both tourists and artists seeking inspiration. 
+Zengcuo'an is a charming coastal village located in Xiamen, China. This picturesque destination has gained popularity for its unique blend of traditional Chinese architecture and a vibrant, bohemian atmosphere. It is renowned for its distinctive whitewashed buildings adorned with colorful doors and windows, creating a delightful contrast against the backdrop of the azure sea. The narrow winding streets are lined with quaint cafes, boutique shops, and local seafood restaurants, making it a haven for both tourists and artists seeking inspiration. 
 </div>
 </div>
 
 ## The Gate of the Orient - Suzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.07.29</div><img src='images/suzhou0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-The Gate of the Orient is a prominent landmark and cultural symbol located in the city of Suzhou, China. This iconic structure stands as a testament to the city's rich history and modern development. It is an architectural marvel that combines traditional Chinese design elements with contemporary aesthetics. Its design draws inspiration from classical Chinese gates and archways, featuring intricate carvings, ornate decorations, and a distinctive roofline. The gate is often adorned with vibrant red colors, which are symbolic of prosperity and good fortune in Chinese culture. Beyond its architectural beauty, it serves as a gateway to the city, welcoming visitors with open arms. 
+The Gate of the Orient is a prominent landmark and cultural symbol located in the city of Suzhou, China. This iconic structure stands as a testament to the city's rich history and modern development. It is an architectural marvel that combines traditional Chinese design elements with contemporary aesthetics. Its design draws inspiration from classical Chinese gates and archways, featuring intricate carvings, ornate decorations, and a distinctive roofline. 
 
 </div>
 </div>
