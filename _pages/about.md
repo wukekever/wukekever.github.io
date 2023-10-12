@@ -86,7 +86,7 @@ My CV can be found here: [English](https://github.com/wukekever/wukekever.github
 
 
 # 📄 Selected Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput Methods Appl Mech Eng</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf)
