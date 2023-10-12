@@ -70,7 +70,7 @@ My CV can be found here: [English](https://github.com/wukekever/wukekever.github
 
 - [8] Xiong-Bin Yan, **Keke Wu**, Zhi-Qin John Xu, Zheng Ma. Data-Free Deep Learning Approach for Solving the Inverse Problem of the Wave Equation. 
 - [7] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
-- [6] **Keke Wu**, Xiong-Bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf). arXiv preprint arXiv:2306.15891, 2023.
+- [6] **Keke Wu**, Xiong-Bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf). Computer Methods in Applied Mechanics and Engineering, 2023.
 - [5] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale kinetic equations](http://arxiv.org/pdf/2306.15381.pdf). arXiv preprint arXiv:2306.15381, 2023. (Corresponding author)
 - [4] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023. (Corresponding author)  
 
