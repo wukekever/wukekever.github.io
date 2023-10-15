@@ -70,7 +70,7 @@ My CV can be found here: [English](https://github.com/wukekever/wukekever.github
 
 - [8] Xiong-Bin Yan, **Keke Wu**, Zhi-Qin John Xu, Zheng Ma. Data-Free Deep Learning Approach for Solving the Inverse Problem of the Wave Equation. 
 - [7] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
-- [6] **Keke Wu**, Xiong-Bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf). Computer Methods in Applied Mechanics and Engineering, 2023.
+- [6] **Keke Wu**, Xiong-Bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](https://www.sciencedirect.com/science/article/pii/S0045782523006552). Computer Methods in Applied Mechanics and Engineering, 418:116531, 2024.
 - [5] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale kinetic equations](http://arxiv.org/pdf/2306.15381.pdf). arXiv preprint arXiv:2306.15381, 2023. (Corresponding author)
 - [4] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023. (Corresponding author)  
 
@@ -86,7 +86,7 @@ My CV can be found here: [English](https://github.com/wukekever/wukekever.github
 
 
 # 📄 Selected Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comput Methods Appl Mech Eng</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/apcons.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](http://arxiv.org/pdf/2306.15891.pdf)
@@ -149,7 +149,7 @@ Shi Jin, Zheng Ma, **Keke Wu**
 ## Skytree - Tokyo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.08.21</div><img src='images/tokyo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-The Tokyo Skytree is an iconic landmark and communication tower located in Sumida, Tokyo. It stands as one of the tallest freestanding towers in the world, soaring to an impressive height of 634 meters. This architectural marvel was completed in 2012 and has since become a symbol of Tokyo's modern skyline and technological advancement. The two main observation decks, known as the Tembo Deck and the Tembo Galleria, are located at heights of 350 meters and 450 meters respectively, providing visitors with stunning vistas of the city, including famous landmarks like Tokyo Tower and Mount Fuji on clear days.
+The Tokyo Skytree is an iconic landmark and communication tower located in Sumida, Tokyo. It stands as one of the tallest freestanding towers in the world, soaring to an impressive height of 634 meters. This architectural marvel was completed in 2012 and has since become a symbol of Tokyo's modern skyline and technological advancement. The tower serves multiple purposes, primarily functioning as a broadcasting tower for television and radio signals. However, it is also a major tourist attraction, offering visitors breathtaking panoramic views of Tokyo and its surroundings from its observation decks. The two main observation decks, known as the Tembo Deck and the Tembo Galleria, are located at heights of 350 meters and 450 meters respectively, providing visitors with stunning vistas of the city, including famous landmarks like Tokyo Tower and Mount Fuji on clear days.
 
 </div>
 </div>
@@ -188,14 +188,14 @@ Shanghai Bund is one of Shanghai's most iconic landmarks and a symbol of the cit
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.01</div><img src='images/xiamen0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Zengcuo'an is a charming coastal village located in Xiamen, China. This picturesque destination has gained popularity for its unique blend of traditional Chinese architecture and a vibrant, bohemian atmosphere. It is renowned for its distinctive whitewashed buildings adorned with colorful doors and windows, creating a delightful contrast against the backdrop of the azure sea. The narrow winding streets are lined with quaint cafes, boutique shops, and local seafood restaurants, making it a haven for both tourists and artists seeking inspiration. 
+Zengcuo'an is a charming coastal village located in Xiamen, Fujian Province, China. This picturesque destination has gained popularity for its unique blend of traditional Chinese architecture and a vibrant, bohemian atmosphere. It is renowned for its distinctive whitewashed buildings adorned with colorful doors and windows, creating a delightful contrast against the backdrop of the azure sea. The narrow winding streets are lined with quaint cafes, boutique shops, and local seafood restaurants, making it a haven for both tourists and artists seeking inspiration. 
 </div>
 </div>
 
 ## The Gate of the Orient - Suzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.07.29</div><img src='images/suzhou0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-The Gate of the Orient is a prominent landmark and cultural symbol located in the city of Suzhou, China. This iconic structure stands as a testament to the city's rich history and modern development. It is an architectural marvel that combines traditional Chinese design elements with contemporary aesthetics. Its design draws inspiration from classical Chinese gates and archways, featuring intricate carvings, ornate decorations, and a distinctive roofline. 
+The Gate of the Orient is a prominent landmark and cultural symbol located in the city of Suzhou, China. This iconic structure stands as a testament to the city's rich history and modern development. It is an architectural marvel that combines traditional Chinese design elements with contemporary aesthetics. Its design draws inspiration from classical Chinese gates and archways, featuring intricate carvings, ornate decorations, and a distinctive roofline. The gate is often adorned with vibrant red colors, which are symbolic of prosperity and good fortune in Chinese culture. Beyond its architectural beauty, it serves as a gateway to the city, welcoming visitors with open arms. 
 
 </div>
 </div>
