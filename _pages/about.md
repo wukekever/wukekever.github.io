@@ -47,40 +47,32 @@ redirect_from:
 </html> -->
 
 
-Hello, I am a PhD student at Shanghai Jiao Tong University, advised by Zheng Ma. 
-I received my master's degree from Soochow University, advised by Jingrun Chen and Rui Du. 
+<!-- Hello, I am a PhD student at Shanghai Jiao Tong University, advised by Zheng Ma. 
+I received my master's degree from Soochow University, advised by Jingrun Chen and Rui Du.  -->
 My research interest includes scientific computation and deep learning. 
 The deep learning frameworks now I used are JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
 I am currently working on the application of deep learning in scientific computation and also interested in the application of deep learning in computer vision and natural language processing. 
 
-In the field of AI for Science (AI4S), my collaborators and I found that a vanilla Physics-Informed Neural Network (PINN) is inadequate in capturing the intricate multiscale nature of the problem at hand. As a remedy, we put forth two groundbreaking Asymptotic-Preserving Neural Networks (APNNs) designed to effectively address the complexities of the multiscale time-dependent linear transport equations, replete with diffusive scaling and uncertainties.
-Furthermore, our efforts extended to the development of APNNs, which proficiently tackle multiscale nonlinear kinetic problems, encompassing the gray radiative transfer equations (GRTEs) and Bhatnagar-Gross-Krook (BGK) equations. In addition, we delved into the realm of operator learning, where we introduced two Asymptotic-Preserving Convolutional Deep Operator Networks (APCONs) with the capability to adeptly capture the diffusive behavior inherent in the multiscale linear transport equations.
+<!-- In the field of AI for Science (AI4S), my collaborators and I found that a vanilla Physics-Informed Neural Network (PINN) is inadequate in capturing the intricate multiscale nature of the problem at hand. As a remedy, we put forth two groundbreaking Asymptotic-Preserving Neural Networks (APNNs) designed to effectively address the complexities of the multiscale time-dependent linear transport equations, replete with diffusive scaling and uncertainties.
+Furthermore, our efforts extended to the development of APNNs, which proficiently tackle multiscale nonlinear kinetic problems, encompassing the gray radiative transfer equations (GRTEs) and Bhatnagar-Gross-Krook (BGK) equations. In addition, we delved into the realm of operator learning, where we introduced two Asymptotic-Preserving Convolutional Deep Operator Networks (APCONs) with the capability to adeptly capture the diffusive behavior inherent in the multiscale linear transport equations. -->
 
 
-# 🚀 Curriculum Vitae
+<!-- # 🚀 Curriculum Vitae -->
 
 
 <!-- My CV can be found here: [Chinese](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/Resume_cn.pdf) and [English](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/Resume_en.pdf) -->
-My CV can be found here: [English](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/Resume_en.pdf)
+<!-- My CV can be found here: [English](https://github.com/wukekever/wukekever.github.io/tree/main/pdfs/Resume_en.pdf) -->
 
 
 # 📝 Publications 
-
-### 2023
 
 - [8] Xiong-Bin Yan, **Keke Wu**, Zhi-Qin John Xu, Zheng Ma. Data-Free Deep Learning Approach for Solving the Inverse Problem of the Wave Equation. 
 - [7] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
 - [6] **Keke Wu**, Xiong-Bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](https://www.sciencedirect.com/science/article/pii/S0045782523006552). Computer Methods in Applied Mechanics and Engineering, 418:116531, 2024.
 - [5] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale kinetic equations](http://arxiv.org/pdf/2306.15381.pdf). arXiv preprint arXiv:2306.15381, 2023. (Corresponding author)
 - [4] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-preserving neural networks for multiscale time-dependent linear transport equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023. (Corresponding author)  
-
-### 2021
-
-- [3] **Keke Wu**, Xiangru Jian, Rui Du, Jingrun Chen, and Xiang Zhou. [Roughness Index for Loss Landscapes of Neural Network Models of Partial Differential Equations](https://arxiv.org/abs/2103.11069). arXiv preprint arXiv:2103.11069, 2021.   
+- [3] **Keke Wu**, Xiangru Jian, Rui Du, Jingrun Chen, and Xiang Zhou. [Roughness Index for Loss Landscapes of Neural Network Models of Partial Differential Equations](https://arxiv.org/abs/2103.11069). 2023 IEEE International Conference on Big Data. IEEE, 2023.   
 - [2] Liyao Lyu, **Keke Wu**, Rui Du, and Jingrun Chen. [Enforcing Exact Boundary and Initial Conditions in the Deep Mixed Residual Method](https://www.global-sci.org/intro/article_detail/csiam-am/19991.html). CSIAM Transactions on Applied Mathematics, 2(4)(2021) 748-775. (Equal contribution)
-
-### 2020
-
 - [1] Jingrun Chen, Rui Du, and  **Keke Wu**.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author)
 
 
