@@ -66,15 +66,19 @@ Furthermore, our efforts extended to the development of APNNs, which proficientl
 
 # 📝 Publications 
 
-- [8] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations.
+## Submitted
+
 - [7] Xiong-Bin Yan, **Keke Wu**, Zhi-Qin John Xu, Zheng Ma. [An Unsupervised Deep Learning Approach for the Wave Equation Inverse Problem](https://arxiv.org/abs/2311.04531). arXiv preprint arXiv:2311.04531, 2023.
+<!-- - [8] **Keke Wu** et al., Asymptotic-Preserving Neural Network based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations. -->
+
+## Accepted
+
 - [6] **Keke Wu**, Xiong-Bin Yan, Shi Jin, and Zheng Ma. [Capturing the Diffusive Behavior of the Multiscale Linear Transport Equations by Asymptotic-Preserving Convolutional DeepONets](https://www.sciencedirect.com/science/article/pii/S0045782523006552). Computer Methods in Applied Mechanics and Engineering, 418:116531, 2024.
-- [5] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations](http://arxiv.org/abs/2306.15381). arXiv preprint arXiv:2306.15381, 2023. (Corresponding author)
+- [5] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations](http://arxiv.org/abs/2306.15381). Communications in Computational Physics, 2024. (Corresponding author)
 - [4] Shi Jin, Zheng Ma, and **Keke Wu**. [Asymptotic-Preserving Neural Networks for Multiscale Time-Dependent Linear Transport Equations](https://link.springer.com/article/10.1007/s10915-023-02100-0). Journal of Scientific Computing, 94(3):57, 2023. (Corresponding author)  
 - [3] **Keke Wu**, Xiangru Jian, Rui Du, Jingrun Chen, and Xiang Zhou. [Roughness Index for Loss Landscapes of Neural Network Models of Partial Differential Equations](https://arxiv.org/abs/2103.11069). Proceedings of the IEEE International Conference on Big Data, 2023.   
 - [2] Liyao Lyu, **Keke Wu**, Rui Du, and Jingrun Chen. [Enforcing Exact Boundary and Initial Conditions in the Deep Mixed Residual Method](https://www.global-sci.org/intro/article_detail/csiam-am/19991.html). CSIAM Transactions on Applied Mathematics, 2(4)(2021) 748-775. (Equal contribution)
 - [1] Jingrun Chen, Rui Du, and  **Keke Wu**.[A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions](https://global-sci.org/intro/article_detail/cmr/17853.html). Communications in Mathematical Research, 36(3)(2020) 354-376. (Corresponding author)
-
 
 
 # 📄 Selected Projects
@@ -92,7 +96,7 @@ Furthermore, our efforts extended to the development of APNNs, which proficientl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commun Comput Phys</div><img src='images/apnns-bgk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymptotic-Preserving Neural Networks for Multiscale Kinetic Equations](http://arxiv.org/pdf/2306.15381.pdf)
@@ -137,60 +141,60 @@ Shi Jin, Zheng Ma, **Keke Wu**
 </div>
 </div>
 
-# 📌 Life
-## Skytree - Tokyo
+<!-- # 📌 Life -->
+<!-- ## Skytree - Tokyo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.08.21</div><img src='images/tokyo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 The Tokyo Skytree is an iconic landmark and communication tower located in Sumida, Tokyo. It stands as one of the tallest freestanding towers in the world, soaring to an impressive height of 634 meters. This architectural marvel was completed in 2012 and has since become a symbol of Tokyo's modern skyline and technological advancement. The tower serves multiple purposes, primarily functioning as a broadcasting tower for television and radio signals. However, it is also a major tourist attraction, offering visitors breathtaking panoramic views of Tokyo and its surroundings from its observation decks. The two main observation decks, known as the Tembo Deck and the Tembo Galleria, are located at heights of 350 meters and 450 meters respectively, providing visitors with stunning vistas of the city, including famous landmarks like Tokyo Tower and Mount Fuji on clear days.
 
 </div>
-</div>
+</div> -->
 
-## Tour of Ronghao Li - Suzhou
+<!-- ## Tour of Ronghao Li - Suzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07.29</div><img src='images/lironghao1_suzhou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Li Ronghao is a renowned Chinese singer, songwriter, and music producer. Born on July 11, 1985, in Guangzhou, China, he has gained widespread recognition for his exceptional musical talent and unique style. He made his debut in the Chinese music industry in 2013 with the release of his first album, "Model". This album featured a mix of pop, rock, and electronic elements, showcasing Li Ronghao's versatility as an artist. 
 
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.07.29</div><img src='images/lironghao2_suzhou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
 </div> -->
 
-## The Bund - Shanghai
+<!-- ## The Bund - Shanghai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04.09</div><img src='images/shanghai0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Shanghai Bund is one of Shanghai's most iconic landmarks and a symbol of the city's rich history and modernity. Situated along the western bank of the Huangpu River in the heart of Shanghai, the Bund is a waterfront promenade lined with a stunning collection of historic and modern architecture. The Bund's history dates back to the 19th century when it was a hub of international trade and finance. During this period, many European and American banks and trading houses set up their offices in the area, leaving behind a legacy of grand neo-classical and Art Deco buildings. 
 
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.01.02</div><img src='images/shanghai1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
 </div> -->
 
-##  Zengcuo'An - Xiamen
+<!-- ##  Zengcuo'An - Xiamen -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.02</div><img src='images/xiamen1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.01</div><img src='images/xiamen0.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.05.01</div><img src='images/xiamen0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Zengcuo'an is a charming coastal village located in Xiamen, Fujian Province, China. This picturesque destination has gained popularity for its unique blend of traditional Chinese architecture and a vibrant, bohemian atmosphere. It is renowned for its distinctive whitewashed buildings adorned with colorful doors and windows, creating a delightful contrast against the backdrop of the azure sea. The narrow winding streets are lined with quaint cafes, boutique shops, and local seafood restaurants, making it a haven for both tourists and artists seeking inspiration. 
 </div>
-</div>
+</div> -->
 
-## The Gate of the Orient - Suzhou
+<!-- ## The Gate of the Orient - Suzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.07.29</div><img src='images/suzhou0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 The Gate of the Orient is a prominent landmark and cultural symbol located in the city of Suzhou, China. This iconic structure stands as a testament to the city's rich history and modern development. It is an architectural marvel that combines traditional Chinese design elements with contemporary aesthetics. Its design draws inspiration from classical Chinese gates and archways, featuring intricate carvings, ornate decorations, and a distinctive roofline. The gate is often adorned with vibrant red colors, which are symbolic of prosperity and good fortune in Chinese culture. Beyond its architectural beauty, it serves as a gateway to the city, welcoming visitors with open arms. 
 
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020.08.21</div><img src='images/suzhou1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

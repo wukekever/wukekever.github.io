@@ -15,5 +15,5 @@ main:
   - title: "Presentations"
     url: "/#-presentations"
 
-  - title: "Life"
-    url: "/#-life"
+  # - title: "Life"
+  #   url: "/#-life"
